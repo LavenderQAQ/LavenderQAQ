@@ -1,33 +1,18 @@
 <div align="center">
 	<h2>👋 Hi there</h2>
 	<h4>Yesterday, all my troubles seemed so far away.</h4>
+</div>
+
+- 🌱 I’m currently learning Golang and Rust
+- 💬 Ask me anything at [Discussions](https://github.com/LavenderQAQ/LavenderQAQ/discussions)
+	
+<div align="center">
    	<a href="#">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=LavenderQAQ"
 			alt="GitHub Streak" width="49%" />
-	  </a>   
+	</a>   
    	<a href="#">
 		<img src="https://github-readme-stats.vercel.app/api?username=LavenderQAQ&show_icons=true&theme=buefy"
 			alt="Henry's github stats" width="49%" />
 	</a>
 </div>
-
-<!--
-**LavenderQAQ/LavenderQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
----
-
-**🏆 Github Profile Trophy**
-
-![https://github.com/ryo-ma/](https://github-profile-trophy.vercel.app/?username=LavenderQAQ&theme=onedark)
