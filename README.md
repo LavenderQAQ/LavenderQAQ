@@ -3,11 +3,11 @@
 	<h4>I'm Henry, a self-motivated tech enthusiast and full stack developer.</h4>
    	<a href="#">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=LavenderQAQ"
-			alt="GitHub Streak" width="45%" />
+			alt="GitHub Streak" width="49%" />
 	  </a>   
    	<a href="#">
 		<img src="https://github-readme-stats.vercel.app/api?username=LavenderQAQ&show_icons=true&theme=buefy"
-			alt="Henry's github stats" width="45%" />
+			alt="Henry's github stats" width="49%" />
 	</a>
 </div>
 
