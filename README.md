@@ -1,4 +1,15 @@
-### Hi there 👋
+<div align="center">
+	<h2>👋 Hi there</h2>
+	<h4>I'm Henry, a self-motivated tech enthusiast and full stack developer.</h4>
+   	<a href="#">
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=LavenderQAQ"
+			alt="GitHub Streak" width="45%" />
+	  </a>   
+   	<a href="#">
+		<img src="https://github-readme-stats.vercel.app/api?username=LavenderQAQ&show_icons=true&theme=buefy"
+			alt="Henry's github stats" width="45%" />
+	</a>
+</div>
 
 <!--
 **LavenderQAQ/LavenderQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LavenderQAQ)](https://github.com/LavenderQAQ/github-readme-stats)
