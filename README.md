@@ -1,6 +1,6 @@
 <div align="center">
 	<h2>👋 Hi there</h2>
-	<h4>I'm Henry, a self-motivated tech enthusiast and full stack developer.</h4>
+	<h4>Yesterday, all my troubles seemed so far away.</h4>
    	<a href="#">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=LavenderQAQ"
 			alt="GitHub Streak" width="49%" />
@@ -25,3 +25,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+**🏆 Github Profile Trophy**
+
+![https://github.com/ryo-ma/](https://github-profile-trophy.vercel.app/?username=LavenderQAQ&theme=onedark)
