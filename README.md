@@ -13,6 +13,6 @@
 	</a>   
    	<a href="#">
 		<img src="https://github-readme-stats.vercel.app/api?username=LavenderQAQ&show_icons=true&theme=buefy"
-			alt="Henry's github stats" width="49%" />
+			alt="LavenderQAQ's github stats" width="49%" />
 	</a>
 </div>
