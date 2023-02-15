@@ -3,7 +3,7 @@
 	<h4>Yesterday, all my troubles seemed so far away.</h4>
 </div>
 
-- 🌱 I’m currently learning Golang and Rust
+- 🌱 Using Golang and Rust
 - 💬 Ask me anything at [Discussions](https://github.com/LavenderQAQ/LavenderQAQ/discussions)
 	
 <div align="center">
