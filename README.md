@@ -3,7 +3,7 @@
 	<h4>Yesterday, all my troubles seemed so far away.</h4>
 </div>
 
-- 🌱 Go and Rust programmer. Ongoing involvement in openyurt and coolbpf projects.
+- 🌱 Go and Rust programmer. Ongoing involvement in openyurt projects.
 - 💬 Ask me anything at [Discussions](https://github.com/LavenderQAQ/LavenderQAQ/discussions)
 	
 <div align="center">
